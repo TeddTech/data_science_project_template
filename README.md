@@ -25,3 +25,7 @@ The following are the arguments the script takes in:
 * `last_name` - The last name of the author of the project
 * `year` - The year the project was last edited
 * `commit_message` - Commit message to be
+* `licence`
+* `date` - Current date
+
+created November 2017
