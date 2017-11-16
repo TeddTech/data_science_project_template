@@ -20,8 +20,8 @@ Create the cookie cutter template by running the bash script in the  following l
 ![cookie_cutter.sh]()
 
 The following are the arguments the script takes in:
-* project_name - The name of the project
-* first_name - The first name of the author of the project
-* last_name - The last name of the author of the project
-* year - The year the project was last edited
-* commit_message - Commit message to be
+* `project_name` - The name of the project
+* `first_name` - The first name of the author of the project
+* `last_name` - The last name of the author of the project
+* `year` - The year the project was last edited
+* `commit_message` - Commit message to be
