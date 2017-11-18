@@ -38,4 +38,5 @@ The following are the arguments the script takes in:
 Usage Example: `bash cookie_cutter.sh project_name first_name last_name year license cit`
 
 created by  Ted Thompson
+
 *November 2017*
