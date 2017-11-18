@@ -4,7 +4,9 @@ By running this script you create a github repository with the following structu
 
 `.gitignore
 |-- LICENSE.md                    # (inputs first name, last name, and year)
+
 |-- README.md                     # README.md file with project name, first name, last name, and year
+
 |-- data                          # Holds any raw data or metadata
       -- README.md                      
 |-- doc                           # Holds text documents associated with the project
@@ -17,27 +19,34 @@ By running this script you create a github repository with the following structu
       -- README.md        `
 
 `|-- CITATION
+
 |-- README
+
 |-- LICENSE
+
 |-- data
+
 |   
 |-- doc
 |   -- notebook.md
 |   -- manuscript.md
+
 |-- results
 |   -- summarized_results.csv
 |   -- counts_bar_plot.pdf
 |   -- counts_joy_plot.pdf
+
 |-- src
 |   -- sightings_analysis.py
 |   -- runall.py
+
 |-- from_joe
 |   -- Email Discussions.rtf
 |   -- BirdsCountsFromJuly2001-tt-collected.xls
 |   -- birdsCountsJul-2002-mg-collected.xls`
 
 Create the cookie cutter template by running the bash script in the  following link:
-![cookie_cutter.sh]()
+![cookie_cutter.sh](https://github.com/TeddTech/data_science_project_template/blob/master/cookie_cutter.sh)
 
 The following are the arguments the script takes in:
 * `project_name` - The name of the project
@@ -45,7 +54,7 @@ The following are the arguments the script takes in:
 * `last_name` - The last name of the author of the project
 * `year` - The year the project was last edited
 * `commit_message` - Commit message to be
-* `licence`
+* `license` - License to be used
 * `date` - Current date
 
 created November 2017
