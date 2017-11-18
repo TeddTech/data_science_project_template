@@ -55,3 +55,4 @@ git commit -m $date
 dir
 
 #You will have to manually push to Github
+# created by Ted Thompson, November 2017
