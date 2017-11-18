@@ -32,11 +32,9 @@ The following are the arguments the script takes in:
 * `first_name` - The first name of the author of the project
 * `last_name` - The last name of the author of the project
 * `year` - The year the project was last edited
-* `commit_message` - Commit message to be
-* `license` - License to be used
-* `cit` - Any references
-* `date` - Current date
+* `license` - Full path of license file to be used
+* `cit` - Full path to file containing any reference used
 
-Usage Example: `bash new_project.sh project_name first_name last_name year commit_message license cit date`
+Usage Example: `bash cookie_cutter.sh project_name first_name last_name year license cit`
 
 created *November 2017*
